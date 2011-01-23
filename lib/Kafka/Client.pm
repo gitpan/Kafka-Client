@@ -1,6 +1,6 @@
 package Kafka::Client;
 BEGIN {
-  $Kafka::Client::VERSION = '0.01';
+  $Kafka::Client::VERSION = '0.02';
 }
 use Moose;
 
